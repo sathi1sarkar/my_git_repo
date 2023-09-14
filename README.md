@@ -1,3 +1,6 @@
+# Downlode git windows software
+https://gitforwindows.org/
+
 # creat ssh key in windows
 open powersel in adminstator mode than click a run as adminstatore
 
